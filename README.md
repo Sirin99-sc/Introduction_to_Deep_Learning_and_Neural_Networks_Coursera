@@ -1,2 +1,2 @@
-# Introduction_to_Deep_Learning_and_Neural_Networks_Coursera
-Coursera - Introduction to Deep Learning and Neural Networks with Keras (Offered By IBM)
+# Introduction to Deep Learning and Neural Networks With Keras (Coursera)
+This repository consists of all the course materials from the course Introduction to Deep Learning and Neural Networks with Keras (Offered By IBM) on Coursera. After completing this course you will understand the basic concepts regarding Neural Networks and how to implement basic regression, classification, and convolutional neural networks with Keras.
